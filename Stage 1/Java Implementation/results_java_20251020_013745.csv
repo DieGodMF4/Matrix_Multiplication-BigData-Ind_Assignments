@@ -1,0 +1,4 @@
+lang,size,repeats,avg_time_ms,heap_now_mb,heap_peak_mb,allocated_mb
+java,64,3,1.069,2.20,2.20,0.09
+java,128,3,1.545,2.68,2.68,0.38
+java,256,3,11.070,6.29,6.29,1.50

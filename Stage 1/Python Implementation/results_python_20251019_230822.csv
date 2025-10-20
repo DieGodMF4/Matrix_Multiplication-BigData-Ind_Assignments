@@ -1,0 +1,4 @@
+lang,size,repeats,avg_time_ms,psutil_rss_mb_now,psutil_vms_mb_now,psutil_peak_rss_mb,tracemalloc_peak_mib
+python,64,3,71.562,22.06,13.70,23.74,0.52
+python,128,3,563.802,24.13,15.69,31.42,2.03
+python,256,3,4297.064,33.24,24.22,58.73,8.14
