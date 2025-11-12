@@ -1,0 +1,4 @@
+lang,algo,size,repeats,avg_time_ms,rss_now_mb,rss_peak_mb,extra
+c,sparse,512,3,10.703,3.99,8.19,"{block:64,density:0.050}"
+c,sparse,1024,3,96.000,4.49,21.27,"{block:64,density:0.050}"
+c,sparse,2048,3,726.237,5.33,74.13,"{block:64,density:0.050}"

@@ -1,0 +1,4 @@
+lang,algo,size,repeats,avg_time_ms,rss_now_mb,rss_peak_mb,extra
+c,blocked,128,3,1.667,4.18,4.18,"{block:64,density:0.050}"
+c,blocked,256,3,14.808,4.34,5.39,"{block:64,density:0.050}"
+c,blocked,384,3,47.205,3.81,7.89,"{block:64,density:0.050}"

@@ -1,0 +1,4 @@
+lang,algo,size,repeats,avg_time_ms,psutil_rss_mb,psutil_vms_mb,tracemalloc_peak_mib,extra
+python,basic,128,3,589.880,25.37,16.28,1.66,"{'block': 64, 'density': 0.05}"
+python,basic,256,3,4848.719,30.95,21.71,6.23,"{'block': 64, 'density': 0.05}"
+python,basic,384,3,30571.040,38.95,29.90,13.80,"{'block': 64, 'density': 0.05}"

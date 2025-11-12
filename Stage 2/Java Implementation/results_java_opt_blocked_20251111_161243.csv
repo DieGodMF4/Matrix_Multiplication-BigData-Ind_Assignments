@@ -1,0 +1,4 @@
+lang,algo,size,repeats,avg_time_ms,heap_now_mb,extra
+java,blocked,128,3,5.861,3.63,"{block:64,density:0.050}"
+java,blocked,256,3,8.039,8.31,"{block:64,density:0.050}"
+java,blocked,384,3,18.997,19.36,"{block:64,density:0.050}"
